@@ -1,5 +1,5 @@
-<h1 align="center">oii, aqui é o vini!</h1>
-<p align="center">brazilian artsy guy</p>
+<h1 align="center">hello, i'm lapolli*</h1>
+<p align="center">brazilian dev/artsy guy</p>
 
 <p align="center">
   Full Stack Developer | Backend Focused <br/>
