@@ -1,4 +1,4 @@
-<h5>Hi, friends! I'm vinicius lapolli :) <br>A BRAZILIAN FULL STACK DEVELOPER</h5>
+<h5>Vinicius Lapolli <br> BRAZILIAN FULL STACK DEVELOPER</h5>
 <div>
   <h6>CURRENT STACK</h6>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -48,6 +48,7 @@
     lapollivinicius@gmail.com
   </a>
 </p>
+<!--
 <pre>
 ┌────────────────────────────────────────────────────────────┐
 │       .        * ┌──────────────┐   .        .       *   . │
@@ -57,4 +58,4 @@
 │      +    > ^ <    .      *           .             .   +  │
 └────────────────────────────────────────────────────────────┘
 </pre>
-
+-->
