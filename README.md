@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 </div>
 
@@ -33,8 +33,7 @@
   <p>
   <a href="https://linkedin.com/in/lapollivinicius">Linkedin</a> •
   <a href="mailto:lapollivinicius@email.com">E-mail</a> •
-  <a href="https://x.com/lapollivinicius">X</a> •
-  <a href="https://behance.net/lapollivinicius">Behance</a>
+  <a href="https://x.com/lapollivinicius">X</a>
 </p>
 </div>
 
